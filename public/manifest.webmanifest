@@ -1,6 +1,6 @@
 {
   "name": "The_Budget_Balancer",
-  "short_name": "Budget Balancer",
+  "short_name": "Budget_Balancer",
   "icons": [
     {
       "src": "assets/images/icons/icon-192x192.png",
@@ -13,8 +13,8 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#ffffff",
-  "background_color": "#ffffff",
   "start_url": "/",
-  "display": "standalone"
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "background_color": "#ffffff"
 }
