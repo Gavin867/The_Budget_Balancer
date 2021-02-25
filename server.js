@@ -27,4 +27,5 @@ app.use(require("./routes/api.js"));
 
 app.listen(PORT, () => {
   console.log(`App running on port ${PORT}!`);
+  console.log(`Use http://localhost:3000/ to launch`);
 });
