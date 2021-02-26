@@ -21,7 +21,7 @@ A deposit and expense tracker which uses Progressive Web Apps to provide optimal
 
 GitHub Repository Link: https://github.com/Gavin867/The_Budget_Balancer
 
-Heroku Deployed Link: 
+Heroku Deployed Link:  https://budget-balancer.herokuapp.com/
 
 ## Application Summary
 
@@ -39,9 +39,11 @@ The purpose of the Budget Balancer is to track and store all your deposits and e
 
 ## Installation
 
-No installation is required for running the deployed version of this application. Simply click the '[Deployed Application Link]()' provided in the '[Location](#location)' section to get started.
+No installation is required for running the deployed version of this application. Simply click the '[Deployed Application Link]( https://budget-balancer.herokuapp.com/
+)' provided in the '[Location](#location)' section to get started.
 
-To run locally follow the following instructions...
+To run locally, follow the following instructions:
+
 1. Install MongoDB Atlas and Robo 3T workbench using the directions outlined in the '[mongoDB Documentation](https://docs.mongodb.com/manual/installation/)' and '[Robo 3T Documentation](https://robomongo.org/)'.
 2. Clone the repository to your computer.
 3. Connect the repository to your Robo 3T.
@@ -52,6 +54,7 @@ To run locally follow the following instructions...
 ## Testing
 
 To test the offline caching functionality use the following steps: 
+
 1. When running the application in your browser, right click and click the "inspect".
 2. Click on the "Network" tab and click on the drop down arrow next to the "Online" button.
 3. In the drop down menu select "Offline".
