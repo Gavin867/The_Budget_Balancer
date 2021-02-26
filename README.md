@@ -70,7 +70,8 @@ To test the offline caching functionality use the following steps:
 Additional goals and application features for future devlopment include:
 
 - Personalize/update the UI/UX design
-- Integrating REACT and Handlebars
+- Integrate REACT and Handlebars
+- Add a 'remove transaction' or 'clear list' button 
 
 ## Contributors
 
