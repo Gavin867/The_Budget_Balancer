@@ -27,7 +27,7 @@ Heroku Deployed Link:
 
 ## Application Summary
 
-![Landing Page Stillshot]()
+![Landing Page Stillshot](https://github.com/Gavin867/The_Budget_Balancer/blob/main/public/assets/images/readme-images/main-page.png)
 
 <!-- The Git Swol WOD Tracker is meant to serve as a tracker for all your fitness activities and workouts. With this application you can do the following:
 
