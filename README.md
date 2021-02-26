@@ -1,10 +1,8 @@
-# The_Budget_Balancer
+# The Budget Balancer
 
 ![License Icon](https://img.shields.io/badge/license-GPL3.0-informational.svg)
 
 A deposit and expense tracker which uses Progressive Web Apps to provide optimal budget balancing functionality.
-
-A mongoDB application for people who like to lift things up and put them down ...and then take notes about it.
 
 ## Table of Contents
 
@@ -29,22 +27,26 @@ Heroku Deployed Link:
 
 ![Landing Page Stillshot](https://github.com/Gavin867/The_Budget_Balancer/blob/main/public/assets/images/readme-images/main-page.png)
 
-<!-- The Git Swol WOD Tracker is meant to serve as a tracker for all your fitness activities and workouts. With this application you can do the following:
+The purpose of the Budget Balancer is to track and store all your deposits and expenses. With this application you can do the following:
 
-1. View stored fitness data in a dashboard
-2. Add new workout data to the database.
+1. ADD new deposits.
+2. ADD new expenses.
+3. VIEW list of transactions.
+4. VIEW account balance.
+5. VIEW interactive chart with dates and balances.
+6. App caches data and resubmits requests to the server if network connection is interrupted.
 
 ## Installation
 
-No installation is required for running the deployed version of this application. Simply click the '[Deployed Application Link](https://git-swol-wod-tracker.herokuapp.com/)' provided in the '[Location](#location)' section to get started.
+No installation is required for running the deployed version of this application. Simply click the '[Deployed Application Link]()' provided in the '[Location](#location)' section to get started.
 
 To run locally follow the following instructions...
 1. Install MongoDB Atlas and Robo 3T workbench using the directions outlined in the '[mongoDB Documentation](https://docs.mongodb.com/manual/installation/)' and '[Robo 3T Documentation](https://robomongo.org/)'.
 2. Clone the repository to your computer.
 3. Connect the repository to your Robo 3T.
 4. Open a new terminal instance in the Git SWOL Tracker code file and run "npm i" to install the npm packages needed to run the program.
-5. In the Git Swol WOD Tracker file code terminal, type "node server" and hit ENTER.
-6. Copy and paste http://localhost:4000/ into your browser and the application is now running.
+5. In the Budget Balancer file code terminal, type "node server" and hit ENTER.
+6. Copy and paste http://localhost:3000/ into your browser and the application is now running.
 
 ## Testing
 
@@ -52,18 +54,15 @@ See usage instructions.
 
 ## Usage Instructions
 
-1. To VIEW the dashboard with your workout stats, click "Dashboard" in the upper right hand corner.
-2. To ADD exercises a to an existing workout, click "Continue Workout" button and follow the prompts.
-3. To CREATE a NEW workout, click "New Workout" button and follow the prompts.
-4. In both instances, on your final exercise input, click "Complete Workout" to add the last exercise and return to the main page.
+1. To ADD a deposit to the balance, type the name of the deposit and the amount of cash being added in the form boxes, then click "Add Funds".
+2. To ADD an expense to the balance, type the name of the expense and the amount of cash being removed in the form boxes, then click "Remove Funds".
 
 ## Future Development
 
 Additional goals and application features for future devlopment include:
 
-- Complete rework of the front end UI more intuitive operation
-- Updated styling
-- Using REACT to render webpage -->
+- Personalize/update the UI/UX design
+- Integrating REACT and Handlebars
 
 ## Contributors
 
@@ -77,7 +76,7 @@ Additional goals and application features for future devlopment include:
 
 ## Point of Contact
 
-Have questions? Contact Gavin Calkins at [gavin.calkins@gmail.com](mailto:gavin.calkins@gmail.com?subject=Hi%20Gavin!%20I%20have%20a%20question%20about%20The%20Git%20Swol%20WOD%20Tracker!).
+Have questions? Contact Gavin Calkins at [gavin.calkins@gmail.com](mailto:gavin.calkins@gmail.com?subject=Hi%20Gavin!%20I%20have%20a%20question%20about%20The%20Budget%20Balancer!).
  
 ## License
 
