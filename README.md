@@ -80,7 +80,7 @@ Have questions? Contact Gavin Calkins at [gavin.calkins@gmail.com](mailto:gavin.
  
 ## License
 
-    The Git Swol WOD Tracker. A mongoDB application for people who like to lift things up and put them down ...and then take notes about it.
+    The Budget Balancer. A deposit and expense tracker which uses Progressive Web Apps to provide optimal budget balancing functionality.
 
     Copyright (C) 2021  Gavin B. Calkins 
 
