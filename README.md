@@ -45,7 +45,7 @@ To run locally follow the following instructions...
 1. Install MongoDB Atlas and Robo 3T workbench using the directions outlined in the '[mongoDB Documentation](https://docs.mongodb.com/manual/installation/)' and '[Robo 3T Documentation](https://robomongo.org/)'.
 2. Clone the repository to your computer.
 3. Connect the repository to your Robo 3T.
-4. Open a new terminal instance in the Git SWOL Tracker code file and run "npm i" to install the npm packages needed to run the program.
+4. Open a new terminal instance in the Budget Balancer code file and run "npm i" to install the npm packages needed to run the program.
 5. In the Budget Balancer file code terminal, type "node server" and hit ENTER.
 6. Copy and paste http://localhost:3000/ into your browser and the application is now running.
 
@@ -56,7 +56,9 @@ To test the offline caching functionality use the following steps:
 2. Click on the "Network" tab and click on the drop down arrow next to the "Online" button.
 3. In the drop down menu select "Offline".
 4. Open the "budget" database in the Robo 3T application.
-5. With the application running in the offline 
+5. With the application running in the 'offline' mode, remove or add funds.
+6. Switch the network settings back to "Online",  the user will then see succesful requests appear in the list.
+7. If the application is being run locally, reference the "budget" database while performing steps 1 through 6.
 
 ## Usage Instructions
 
