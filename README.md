@@ -25,7 +25,7 @@ Heroku Deployed Link:
 
 ## Application Summary
 
-![Landing Page Stillshot](https://github.com/Gavin867/The_Budget_Balancer/blob/main/public/assets/images/readme-images/main-page.png)
+![Landing Page Stillshot]("./public/assets/images/readme-images/main-page.png")
 
 The purpose of the Budget Balancer is to track and store all your deposits and expenses. With this application you can do the following:
 
