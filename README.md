@@ -29,12 +29,13 @@ Heroku Deployed Link:
 
 The purpose of the Budget Balancer is to track and store all your deposits and expenses. With this application you can do the following:
 
-1. ADD new deposits.
-2. ADD new expenses.
-3. VIEW list of transactions.
+1. ADD funds.
+2. REMOVE funds.
+3. VIEW transactions.
 4. VIEW account balance.
 5. VIEW interactive chart with dates and balances.
-6. App caches data and resubmits requests to the server if network connection is interrupted.
+6. CACHE data automatically when network connection is interrupted. 
+7. RESUBMIT CACHED data automatically to the server when network connection is re-established.
 
 ## Installation
 
@@ -50,7 +51,12 @@ To run locally follow the following instructions...
 
 ## Testing
 
-See usage instructions.
+To test the offline caching functionality use the following steps: 
+1. When running the application in your browser, right click and click the "inspect".
+2. Click on the "Network" tab and click on the drop down arrow next to the "Online" button.
+3. In the drop down menu select "Offline".
+4. Open the "budget" database in the Robo 3T application.
+5. With the application running in the offline 
 
 ## Usage Instructions
 
