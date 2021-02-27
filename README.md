@@ -8,6 +8,7 @@ A deposit and expense tracker which uses Progressive Web Apps to provide optimal
 
 - [Location](#locations)
 - [Application Summary](#application-summary)
+- [Demo](#Demo)
 - [Installation](#installation)
 - [Testing](#testing)
 - [Usage Instructions](#usage-instructions)
@@ -37,10 +38,13 @@ The purpose of the Budget Balancer is to track and store all your deposits and e
 6. CACHE data automatically when network connection is interrupted. 
 7. RESUBMIT CACHED data automatically to the server when network connection is re-established.
 
+## Demo
+
+To view a video demonstration click [here](https://drive.google.com/file/d/1ZCVcYbgBgrvsZLUVjKIg_lsL5DvLf0kD/view).
+
 ## Installation
 
-No installation is required for running the deployed version of this application. Simply click the '[Deployed Application Link]( https://budget-balancer.herokuapp.com/
-)' provided in the '[Location](#location)' section to get started.
+No installation is required for running the deployed version of this application. Simply click the '[Deployed Application Link]( https://budget-balancer.herokuapp.com/)' provided in the '[Location](#location)' section to get started.
 
 To run locally, follow the following instructions:
 
